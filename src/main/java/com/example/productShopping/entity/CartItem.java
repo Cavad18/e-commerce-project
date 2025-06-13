@@ -2,7 +2,6 @@ package com.example.productShopping.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
-import org.hibernate.validator.constraints.NotBlank;
 
 @Data
 @Entity
